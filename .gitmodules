@@ -1,20 +1,20 @@
 [submodule "src/dg-adw-gtk3"]
 	path = src/dg-adw-gtk3
-	url = https://github.com/dgsasha/dg-adw-gtk3
+	url = https://github.com/Hilyxx/dg-adw-gtk3
 	branch = main
 [submodule "src/dg-firefox-theme"]
 	path = src/dg-firefox-theme
-	url = https://github.com/dgsasha/dg-firefox-theme
+	url = https://github.com/Hilyxx/dg-firefox-theme
 	branch = main
 [submodule "src/dg-yaru"]
 	path = src/dg-yaru
-	url = https://github.com/dgsasha/dg-yaru
+	url = https://github.com/Hilyxx/dg-yaru
 	branch = main
 [submodule "src/dg-libadwaita"]
 	path = src/dg-libadwaita
-	url = https://github.com/dgsasha/dg-libadwaita
+	url = https://github.com/Hilyxx/dg-libadwaita
 	branch = main
 [submodule "src/dg-vscode-adwaita"]
 	path = src/dg-vscode-adwaita
-	url = https://github.com/dgsasha/dg-vscode-adwaita.git
+	url = https://github.com/Hilyxx/dg-vscode-adwaita.git
 	branch = main
